@@ -21,7 +21,7 @@ const Sidebar = () => {
           </li>
           <br />
           
-          {/* <DownloadButton content = "Edit Profile"/> */}
+          <DownloadButton content = "Edit Profile"/>
         </ul>
       </div>
     </div>
