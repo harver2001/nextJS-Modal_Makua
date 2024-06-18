@@ -8,7 +8,7 @@ import profile from "./profile.png"
 
 const Sidebar = () => {
   return (
-    <div className="h-[70%] w-64 bg-[#d4d4d5] text-black fixed m-5 rounded-xl mx-[100px] flex justify-center items-center">
+    <div className="h-[75%] w-64 bg-[#d4d4d5] text-black fixed m-5 rounded-xl mx-[100px] flex justify-center items-center">
       <div className="p-6 ">
         <ul className="mt-6">
           <li className="flex justify-center">
