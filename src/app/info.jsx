@@ -3,7 +3,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faUser, faBell, faCog } from '@fortawesome/free-solid-svg-icons'
 import Image from "next/image"
 import logo from "./logo.png"
-import DownloadButton from './downloadButton';
+// import DownloadButton from './downloadButton';
 import profile from "./profile.png"
 
 const Sidebar = () => {
@@ -21,7 +21,7 @@ const Sidebar = () => {
           </li>
           <br />
           
-          <DownloadButton content = "Edit Profile"/>
+          {/* <DownloadButton content = "Edit Profile"/> */}
         </ul>
       </div>
     </div>
