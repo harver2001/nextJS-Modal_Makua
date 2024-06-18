@@ -29,10 +29,10 @@ const Modal = ({ showModal, setShowModal }) => {
           <IconButton><FaRegPlayCircle /> Video</IconButton>
           <IconButton><FaRegFileImage /> GIF</IconButton>
           <IconButton><FaRegChartBar /> Poll</IconButton>
-          <div className="inline">
+          <div className="inline flex justify-between">
             <PostButton>
-              <div><FaRegPaperPlane /></div>
-              <div>Post</div>
+              <div style={{ marginRight: '10px' }}><FaRegPaperPlane /></div>
+              <div> Post</div>
             </PostButton>
           </div>
         </Footer>
