@@ -18,6 +18,8 @@ const Sidebar = () => {
           <br />
           <li className="my-2">
             <p className="text-sm text-justify">Driven by compassion and a sense of justice, humanitarians engage in a variety of activities, such as disaster relief, often collaborating with non-governmental organizations and international bodies.</p>
+            <br />
+            <h1 className=" text-center">Los Angeles, CA</h1>
           </li>
           <br />
           
