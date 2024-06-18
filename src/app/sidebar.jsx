@@ -4,7 +4,7 @@ import { faUserCircle, faBell } from '@fortawesome/free-regular-svg-icons';
 import { faCog } from '@fortawesome/free-solid-svg-icons'
 import Image from "next/image"
 import logo from "./logo.png"
-// import DownloadButton from './downloadButton';
+import DownloadButton from './DownloadButton';
 import image1 from "./images/image1.png"
 import image2 from "./images/image1.png"
 
@@ -59,7 +59,7 @@ const Sidebar = () => {
           </li>
           <br />
           <br />
-          {/* <DownloadButton content="Download the app" /> */}
+          <DownloadButton content="Download the app" />
         </ul>
       </div>
     </div>

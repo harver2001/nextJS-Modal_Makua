@@ -3,7 +3,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faUser, faBell, faCog } from '@fortawesome/free-solid-svg-icons'
 import Image from "next/image"
 import logo from "./logo.png"
-// import DownloadButton from './downloadButton';
+import DownloadButton from './DownloadButton';
 import profile from "./profile.png"
 
 const Sidebar = () => {
